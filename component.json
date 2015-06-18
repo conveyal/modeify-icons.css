@@ -1,0 +1,9 @@
+{
+  "name": "modeify-icons.css",
+  "repo": "conveyal/modeify-icons.css",
+  "description": "Icons for Modeify",
+  "license": "MIT",
+  "styles": [
+    "icons.css"
+  ]
+}
