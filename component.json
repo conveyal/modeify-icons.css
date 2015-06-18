@@ -2,6 +2,7 @@
   "name": "modeify-icons.css",
   "repo": "conveyal/modeify-icons.css",
   "description": "Icons for Modeify",
+  "version": "0.0.1",
   "license": "MIT",
   "styles": [
     "icons.css"
