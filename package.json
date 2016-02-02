@@ -1,0 +1,22 @@
+{
+  "name": "modeify-icons.css",
+  "version": "1.0.0",
+  "description": "Icons for Modeify",
+  "main": "icons.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conveyal/modeify-icons.css"
+  },
+  "keywords": [
+    "modeify"
+  ],
+  "author": "Conveyal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conveyal/modeify-icons.css/issues"
+  },
+  "homepage": "https://github.com/conveyal/modeify-icons.css"
+}
